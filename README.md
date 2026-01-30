@@ -44,7 +44,14 @@ A mechanical engineering project focusing on the design, structural validation, 
 *Insert your renders and stress plots here to showcase your work:*
 
 #### Crank Optimization Workflow
-![Crank Design and FEA](assets/crank_analysis.png)
+![Crank Design](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202026-01-03%20185106.png?raw=true)
+![Crank FEA](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202026-01-03%20191522.png?raw=true)
+![Crank TO Design](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202026-01-04%20091018.png?raw=true)
+![Crank TO FEA](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202026-01-04%20095731.png?raw=true)
+
+#### Pedal Optimization Workflow
+![Pedal Design](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202025-12-29%20203554.png?raw=true)
+![Pedal FEA](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/file.png?raw=true)
 
 #### Curved Frame Aesthetic
-![Curved Frame Render](assets/frame_render.png)
+![Curved Frame Render](https://github.com/Karthik-v202/Bicycle-Component-Design-Structural-Analysis/blob/main/Screenshot%202026-01-26%20205048.png?raw=true)
