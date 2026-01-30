@@ -1,28 +1,50 @@
 # Bicycle Component Design & Optimization
 
-A mechanical engineering project focused on the design, structural validation, and mass optimization of critical bicycle components using CAD and FEA.
+A mechanical engineering project focusing on the design, structural validation, and mass optimization of critical bicycle components. This project explores the synergy between organic aesthetics and engineering performance using CAD and Finite Element Analysis (FEA).
+
+---
 
 ## 🛠 Project Components
 
 ### 1. Crankset Design & Topology Optimization
-* **Design:** Modeled high-performance crank arms optimized for power transfer.
-* **Analysis:** Static structural simulations under peak pedaling loads (1500N).
-* **Optimization:** Used **Ansys Topology Optimization** to minimize mass, followed by manual CAD reconstruction from the optimized mesh to ensure manufacturing feasibility.
+* **Design:** Developed high-performance crank arms designed for maximum power transfer.
+* **Analysis:** Static structural simulations conducted under peak pedaling loads (1500N).
+* **Optimization:** Leveraged **Ansys Topology Optimization** to identify and remove non-load-bearing material.
+* **Reconstruction:** Executed a manual CAD reconstruction from the optimized density mesh to create a smooth, manufacturable parametric model.
 
 ### 2. Pedal Assembly
-* **Design:** Engineered a lightweight, high-strength pedal geometry.
-* **Validation:** Performed Finite Element Analysis (FEA) to verify durability against impact and fatigue stress.
+* **Design:** Engineered a lightweight, high-strength pedal geometry with a focus on durability.
+* **Validation:** Performed Finite Element Analysis (FEA) to ensure structural integrity against impact forces and fatigue stress.
 
-### 3. Custom Frame Design
-* **Aesthetic:** Departed from traditional triangular/diamond frame geometry in favor of a **curved, organic body design**.
-* **Geometry:** Focused on custom curved lines to explore unique aesthetics while maintaining structural integrity.
-* **Analysis:** Structural validation of the non-traditional geometry to ensure load distribution remains efficient despite the curved profile.
+### 3. Custom "Organic" Frame Design
+* **Aesthetic:** A departure from traditional triangular/diamond frame geometry, utilizing a **curved, organic body design**.
+* **Geometry:** Focused on custom-swept profiles to explore unique aesthetics while maintaining rigid structural paths.
+* **Analysis:** Conducted structural validation to ensure the non-traditional curved members effectively distribute rider and road loads.
+
+---
 
 ## 💻 Tech Stack
-* **CAD:** SolidWorks
-* **Simulation:** Ansys (Static Structural, Topology Optimization)
+
+* **CAD Modeling:** SolidWorks
+* **Simulation & FEA:** Ansys (Static Structural)
+* **Optimization:** Ansys Topology Optimization
+
+---
 
 ## 🚀 Key Learning Outcomes
-* **Mesh-to-CAD Workflow:** Transforming topology-optimized density maps into parametric CAD models.
-* **Non-Traditional Design:** Analyzing and validating curved structural members that deviate from standard triangular frames.
-* **Structural Analysis:** Understanding load paths and stress concentrations in custom mechanical assemblies.
+
+* **Mesh-to-CAD Workflow:** Mastering the process of transforming topology-optimized mesh data into clean, parametric SolidWorks geometry.
+* **Non-Linear Design:** Analyzing and validating curved structural members that deviate from standard engineering templates.
+* **Load Path Visualization:** Identifying stress concentrations in moving mechanical assemblies to guide material placement.
+
+---
+
+## 📸 Project Visuals
+
+*Insert your renders and stress plots here to showcase your work:*
+
+#### Crank Optimization Workflow
+![Crank Design and FEA](assets/crank_analysis.png)
+
+#### Curved Frame Aesthetic
+![Curved Frame Render](assets/frame_render.png)
